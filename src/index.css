@@ -4,3 +4,15 @@ body {
   max-width: 38rem;
   padding: 2rem;
 }
+
+<!--
+.qrcode {
+  transition: transform .3s;
+  width: 25px;
+  height: 25px;
+}
+
+.qrcode:hover {
+  transform: scale(5) translateX(20px);
+} 
+/>
